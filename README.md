@@ -8,6 +8,8 @@ The project is an online classroom, where users will be able to buy courses and 
 
 The backend microservices uses **NestJS** and the web frontend uses **Next.js**.
 
+Authentications will be handled with **Auth0**.
+
 ## Installation & Running
 
 to do...
